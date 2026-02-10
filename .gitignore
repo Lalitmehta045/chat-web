@@ -3,16 +3,12 @@ node_modules/
 package-lock.json
 
 # Environment Variables
-.env
-.env.local
-.env.production
 
 # Build Output
 dist/
 build/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -32,3 +28,4 @@ npm-debug.log*
 # Demo Scripts (optional - remove if you want to include)
 backend/createDemoUser.js
 backend/createMultipleUsers.js
+config.bat
